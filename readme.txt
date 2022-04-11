@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub.
 
 Making a change before i complete my work on my local repo. Want to give a try at rebase!
+
+Now i will do the same as before
